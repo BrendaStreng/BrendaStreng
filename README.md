@@ -4,6 +4,8 @@
 
 I recently graduated in Systems Analysis and Development.💻  <br/>
 I always seek to expand my knowledge, so I have studied different types of technologies.
+But I still have a lot to learn.
+
 
 
 ### Hard Skills
@@ -14,6 +16,7 @@ I always seek to expand my knowledge, so I have studied different types of techn
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 
 
