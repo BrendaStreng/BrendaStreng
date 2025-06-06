@@ -3,7 +3,7 @@
 
 
 I recently graduated in Systems Analysis and Development.💻  <br/>
-I always seek to expand my knowledge, so I have studied different types of technologies.
+I always seek to expand my knowledge, so I have studied different types of technologies.<br/>
 But I still have a lot to learn.
 
 
