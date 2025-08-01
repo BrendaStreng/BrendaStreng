@@ -15,7 +15,13 @@ But I still have a lot to learn.
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrendaStreng&theme=transparent&bg_color=000&border_color=780cb3&show_icons=true&icon_color=780cb3&title_color=780cb3&text_color=fff)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaStreng&layout=compact&theme=midnight-purple&border_color=780cb3)
+
+
 
 
 
