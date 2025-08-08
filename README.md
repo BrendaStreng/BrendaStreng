@@ -21,6 +21,8 @@ But I still have a lot to learn.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ServiceNow-%230B2F45?style=for-the-badge)
+
  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrendaStreng&theme=transparent&bg_color=000&border_color=780cb3&show_icons=true&icon_color=780cb3&title_color=780cb3&text_color=fff)
